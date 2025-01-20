@@ -1,4 +1,4 @@
-My skills cover several fields, as I am a Computer and Firmware Engineer, designing and developing solutions under different platforms and languages, from C and C++ to .NET or PHP, in the industrial and commercial field.
+My skills cover several fields, as I am a Computer and Firmware Engineer, designing and developing solutions under different platforms and languages, from C and C++ to Swift, .NET or PHP, in the industrial and commercial field.
 
 As Network Security Engineer, I design large scale networks, configuring and managing firewalls and different servers and services.
 
